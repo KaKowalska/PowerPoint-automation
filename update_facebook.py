@@ -1,0 +1,2 @@
+from settings import input_excel_file_name, input_presentation_name
+print(input_excel_file_name)
