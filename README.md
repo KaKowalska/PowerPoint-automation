@@ -57,3 +57,12 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Notatki
+`PS C:\Users\KKOWA\Code\repo\PowerPoint-automation> python -m venv venv` 
+create virtual environement
+`C:\Users\KKOWA\Code\repo\PowerPoint-automation>venv\Scripts\activate `
+activate the virtual environment
+`(venv) C:\Users\KKOWA\Code\repo\PowerPoint-automation>pip install -r requirements.txt` 
+instalacja zdefiniowanych bibliotek w pliku requirments
+define/select Python interpreter for Visual Studio => view=> Command Palete => Type select interpretor (choose the recommended python exec and run)
+
